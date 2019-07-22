@@ -1,0 +1,7 @@
+C:\CLabs\Lab7RegularExpressionsNateS\bin\Debug\Lab7RegularExpressionsNateS.exe.config
+C:\CLabs\Lab7RegularExpressionsNateS\bin\Debug\Lab7RegularExpressionsNateS.exe
+C:\CLabs\Lab7RegularExpressionsNateS\bin\Debug\Lab7RegularExpressionsNateS.pdb
+C:\CLabs\Lab7RegularExpressionsNateS\obj\Debug\Lab7RegularExpressionsNateS.csprojAssemblyReference.cache
+C:\CLabs\Lab7RegularExpressionsNateS\obj\Debug\Lab7RegularExpressionsNateS.csproj.CoreCompileInputs.cache
+C:\CLabs\Lab7RegularExpressionsNateS\obj\Debug\Lab7RegularExpressionsNateS.exe
+C:\CLabs\Lab7RegularExpressionsNateS\obj\Debug\Lab7RegularExpressionsNateS.pdb
